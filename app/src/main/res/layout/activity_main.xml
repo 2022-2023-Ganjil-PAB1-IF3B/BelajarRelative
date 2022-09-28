@@ -74,7 +74,7 @@
         android:text="Ga Yakin"
         android:layout_below="@id/btn_click_here"
         android:layout_toRightOf="@id/cb_yakin_banget"/>
-    
+
     <Button
         android:id="@+id/btn_keluar"
         android:layout_width="match_parent"
